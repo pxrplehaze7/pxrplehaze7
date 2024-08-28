@@ -1,16 +1,16 @@
-## Hi there 👋
+## ¡Hola! 🐱
 
-<!--
-**pxrplehaze7/pxrplehaze7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Belén González**, una desarrolladora de software en formación de Concepción.
 
-Here are some ideas to get you started:
+En mi desarrollo como programadora, he adquirido experiencia en las siguientes tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖤 HTML
+🖤 CSS
+🖤 PHP
+🖤 JavaScript
+
+Siempre estoy buscando aprender nuevas herramientas y mejorar mis habilidades en estas áreas.
+
+![Pusheen Cat](https://e7.pngegg.com/pngimages/389/1009/png-clipart-pusheen-cat-pusheen-cat-gif-blog-cat-brown-animals.png)
+
+
